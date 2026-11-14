@@ -1,0 +1,1 @@
+{"name":"aiprove-sample-agent","version":"1.0.0","type":"module","main":"agent.mjs","license":"MIT","dependencies":{"ethers":"^6.17.0"}}
